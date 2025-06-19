@@ -113,9 +113,6 @@ customer_churn_prediction/
 │   └── churn_xgboost_model.pkl
 │
 ├── notebooks/
-│   ├── 1_eda_and_cleaning.ipynb
-│   ├── 2_preprocessing_and_training.ipynb
-│   └── 3_shap_explainability.ipynb
 │
 ├── requirements.txt
 └── README.md

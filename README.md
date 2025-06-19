@@ -60,8 +60,7 @@ Acquiring new customers costs 5x more than retaining existing ones.
 
 ## 🚀 Streamlit App Preview
 
-![Streamlit UI Screenshot](https://github.com/abdulmannaan502/Customer_Churn_Prediction/blob/main/Images/1.png)  
-*(Add your own screenshot here)*
+![Streamlit UI Screenshot](https://github.com/abdulmannaan502/Customer_Churn_Prediction/blob/main/Images/1.png)
 
 Run locally:
 ```bash
